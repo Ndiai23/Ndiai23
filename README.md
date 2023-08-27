@@ -1,4 +1,6 @@
-### Hi there 👋
+
+Aprendendo um pouco mais, quero ajuda!!!!!
+
 
 <!--
 **Ndiai23/Ndiai23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
